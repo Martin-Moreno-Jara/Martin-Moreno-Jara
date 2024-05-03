@@ -58,6 +58,7 @@
 <p>
     <img src="https://img.shields.io/badge/Angular%20-%23F05133.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL%20-%23016B93.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS%20-%23016B93.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />&nbsp;&nbsp;
   
 </p>
 
