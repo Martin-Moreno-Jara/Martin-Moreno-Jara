@@ -38,6 +38,8 @@
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23333333.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp;&nbsp;
+
 </p>
 <h4>DB</h4>
 <p>
