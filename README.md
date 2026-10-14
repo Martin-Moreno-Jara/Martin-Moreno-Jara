@@ -12,7 +12,7 @@
 
 ## About me
 
-Computer Science and Engineering student at Universidad Nacional de Colombia, Bogotá. I am passionate about technology and enjoy learning new concepts, ideas and tools in order to create software. I have a wide range of skills and technical knowledge in many areas of Computer Science. However, I am especially interested in software systems design and architecture, distributed systems and backend services.
+Computer Science and Engineering student at Universidad Nacional de Colombia, Bogotá. I am passionate about technology and enjoy learning new concepts and tools in order to create innovative software. I have had the opportunity of learning about a wide range of technical concepts in many areas of Computer Science. However, I am especially interested in software systems design and architecture, distributed systems and backend services.
 
 My CV and full project list are on my [portfolio](https://martin-moreno.vercel.app).
 
