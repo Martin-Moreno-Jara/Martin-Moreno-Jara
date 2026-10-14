@@ -1,72 +1,80 @@
-<h1>Martin Moreno Jara</h1>
+<div align="center">
 
-<h2>About me </h2>
-  <p>
-  Computer Science and Engineering student at Universidad Nacional de Colombia, Bogotá. I am passionate for technology and enjoy learning new concepts, ideas and tools in order to create software. I have a wide range of skills and techninal knowledge in many areas of Computer Science. However, I am specially interested in software systems design and architecture, distributed system and backend services.
-  </p>
-<h2>Education</h2>
+# Martin Moreno Jara
 
-<ul>
-  <li>Universidad Nacional de Colombia</li>
-  <p> [2022 - 2027 (expected)] Computer Science and Engineering </p>
-  
-  <p>I am currently coursing tenth semester, expecting to graduate in june 2027</p>
+**Computer Science and Engineering student · Software architecture & distributed systems**
 
-</ul>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://martin-moreno.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-moreno-jara-250977242/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martin.moreno.j04@gmail.com)
 
-<h2>Social Networks </h2>
+</div>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/martin-moreno-jara-250977242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:martin.moreno.j04@gmail.com?subject=Hola%20Martin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+## About me
 
-</p>
+Computer Science and Engineering student at Universidad Nacional de Colombia, Bogotá. I am passionate about technology and enjoy learning new concepts, ideas and tools in order to create software. I have a wide range of skills and technical knowledge in many areas of Computer Science. However, I am especially interested in software systems design and architecture, distributed systems and backend services.
 
-<h2>Technical skills</h2>
-<h4>FrontEnd</h4>
-  <p>
-    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/javascript%20-%23333333.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-  </p>
-<h4>BackEnd</h4>
-<p>
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/express%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23333333.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp;&nbsp;
+My CV and full project list are on my [portfolio](https://martin-moreno.vercel.app).
 
-</p>
-<h4>DB</h4>
-<p>
-  <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-</p>
-<h4>Aditional Skills</h4>
-<p>
-  <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-</p>
-<h4>Currently learning ...</h4>
-<p>
-    <img src="https://img.shields.io/badge/Angular%20-%23F05133.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL%20-%23016B93.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS%20-%23016B93.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />&nbsp;&nbsp;
-  
-</p>
+## Featured projects
 
-<!--
-**Martin-Moreno-Jara/Martin-Moreno-Jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Description | Stack |
+|---|---|---|
+| - [Intelligent Pot Firmware](https://github.com/Martin-Moreno-Jara/intelligent_pot) <br> - [Intelligent Pot Web Dashboard](https://github.com/Juanfelipepast2/raspi_mqtt_matera) | IoT planter that monitors environmental conditions and waters automatically when the soil gets dry. Can be controlled remotely through a web dashboard using MQTT  | C++ (Arduino), Flask, HiveMQ, ESP32 |
+| - [Runpath Authentication Service](https://github.com/ArquiSoft-Grupo-2B/authentication-service) <br> - [Runpath API Gateway](https://github.com/ArquiSoft-Grupo-2B/runpath-api-gateway) | Distributed web application to create and share running routes in Bogotá in an interactive map  | FastAPI, GraphQL, Firebase, Docker, NodeJS, Express, GCP  |
+| - [Mascotas Bogota Core](https://github.com/MascotasBogota/2-Reportes-Respuestas) <br> - [Mascotas Bogota Telemetry](https://github.com/MascotasBogota/telemetry-config) | Web platform for lost-and-found pet reports, connecting finders with owners. | Flask, MongoDB, Docker, Prometheus, Grafana |
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Fundamentals:** 
+
+Software Engineering · Software Architecture · Operating Systems · Computer Networks · Machine Learning
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005A9C?style=flat)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Cloud, DevOps & Tools**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**IoT & Embedded**
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+## Education
+
+**B.Sc. Computer Science and Engineering** — Universidad Nacional de Colombia, Bogotá\
+2022 – 2027 (expected June 2027)
