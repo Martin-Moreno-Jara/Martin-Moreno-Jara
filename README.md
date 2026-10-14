@@ -1,34 +1,28 @@
-<h1>Hi there👋, I'm Martin Moreno Jara</h1>
+<h1>Martin Moreno Jara</h1>
 
-<h2>About me 👨 </h2>
+<h2>About me </h2>
   <p>
-  Web developer, I've been learning programming and computer science since 2022. I have skills in tools from both FrontEnd and Backend and can sucessfully create web applications with them.
-  I love to push myself to get my goals, which led me to be a self-taught person and always be learning new technologies and useful skills.
+  Computer Science and Engineering student at Universidad Nacional de Colombia, Bogotá. I am passionate for technology and enjoy learning new concepts, ideas and tools in order to create software. I have a wide range of skills and techninal knowledge in many areas of Computer Science. However, I am specially interested in software systems design and architecture, distributed system and backend services.
   </p>
-<h2>Education 📖</h2>
+<h2>Education</h2>
 
 <ul>
   <li>Universidad Nacional de Colombia</li>
-  <p> Since 2022 I've been studying Systems engineering at Universidad Nacional de Colombia, and I am currently cursing fifth semester. During my time at the university I've learnt several technical and soft skills that have 
-  allowed me to develop as a profesional and as a person.</p>
- 
-  <li>Platzi</li>
-  <p>I have done many courses in @platzi regarding programming langauages, frameworks and soft abilities, which has enabled me to deepen my knowledge on those subjects.</p>
-  <li>Various resources</li>
-  <p>My self-taught nature has led me to research additional learning resources, and I have found valuable knowledge in books, documentation pages and Youtube courses and tutorials</p>
+  <p> [2022 - 2027 (expected)] Computer Science and Engineering </p>
+  
+  <p>I am currently coursing tenth semester, expecting to graduate in june 2027</p>
+
 </ul>
 
-<h2>Social Networks 🌐</h2>
-<p>You can find me here 👇</p>
+<h2>Social Networks </h2>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/martin-moreno-jara-250977242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:martin.moreno.j04@gmail.com?subject=Hola%20Martin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/MartinMDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
-<h2>Technical skills 💻 </h2>
+<h2>Technical skills</h2>
 <h4>FrontEnd</h4>
   <p>
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -61,8 +55,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS%20-%23016B93.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />&nbsp;&nbsp;
   
 </p>
-
-
 
 <!--
 **Martin-Moreno-Jara/Martin-Moreno-Jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
